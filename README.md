@@ -1,6 +1,8 @@
 # moex-algopack-data-viewer
 MOEX ALGOPACK Data Viewer
 
+![moex-data-viewer](https://github.com/user-attachments/assets/47555036-4528-42a1-9c28-0df761051105)
+
 Данное Програмное Обеспечение (далее ПО) предназначено для просмотра данных SuperCandles и FUTOI,
 предоставляемых Московской биржей в рамках продукта "ALGOPACK".
 
